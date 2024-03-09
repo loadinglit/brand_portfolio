@@ -1,0 +1,50 @@
+.fancy-button {
+            background-color: #e5308a; /* Default background color */
+            color: white;/* Default text color */
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+
+        /* Hover effect */
+        .fancy-button:hover {
+            background-color: #e5308a; /* New background color on hover */
+            transform: scale(1.1); /* Scale up the button on hover */
+        }
+ 
+        .left{
+            text-align: left;
+          }
+          .tagline{
+            color: white;
+            font-size: medium;
+          }
+        
+        .h2head{
+            padding-top: 80px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: px;
+            color: white;
+          }
+        
+          .container-main{
+                    
+                    background-image: url(1230949.jpg); /* Replace 'your-image.jpg' with your image path */
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    /* padding: 20px; */
+                
+          }
+          .container-main .col-sm-12{
+             background-image: none;
+          }
+        
+          .concard{
+            padding-top: 50px;
+          }    
+          
+ .right{
+    text-align: left;
+ }
